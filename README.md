@@ -1,5 +1,5 @@
 ## Hi, My name is Andrew. 
-### About Me: I'm a software engineer with 5+ years of front-end development experience. I've spent most of my software development career in the e-commerce and healthcare advertising industries. While I know how to build full stack web applications, I market myself as a frontend software engineer. I'm not afraid of needing to work on the backend/database side of things if the opportunity/need arises.
+### About Me: I'm a frontend software engineer. I've spent most of my software development career in the e-commerce and healthcare advertising industries. While I know how to build full stack web applications, I market myself as a frontend software engineer. I'm not afraid of needing to work on the backend/database side of things if the opportunity/need arises.
 
 Skills:
 React, Javascript, Node, Html, CSS, Tailwind, Bootstrap
